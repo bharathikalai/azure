@@ -44,3 +44,21 @@
 
 ## 5. add the manage identity resource group to the app service
 ![alt text](image-9.png)
+
+
+## 6. create a azure devops pipeline(use this folder app-container-cicd)
+![alt text](image-10.png)
+
+
+## 7. configur the agent on your local machine (create agent on azure devops)
+![alt text](image-11.png)
+
+
+## 8. go to the azure app service deployment center and select the repository and select the manage identity and add image and tag name
+
+## 9. click this default domain to verify your app running state
+![alt text](image-12.png)
+
+## finally :)
+
+![alt text](image-13.png)
