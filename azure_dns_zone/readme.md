@@ -1,1 +1,1 @@
-# azure dns zone basic to advance
+# azure dns zone basic to a
