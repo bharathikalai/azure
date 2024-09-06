@@ -1,4 +1,4 @@
-### azure zero to hero 1st video (topic resource group)
+# Azure zero to hero 1st video (topic resource group)
 # Azure Resource Group
 
 ## Overview
